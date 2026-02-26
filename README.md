@@ -26,7 +26,7 @@ PostgreSQL   Docker       Shell         Lua
 ```
 
 ---
-
+![Stats](./profile/stats.svg)
 <p align="center">
   <img src="https://ghstats.troycornwall.net/api?username=TroyCornwall&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
